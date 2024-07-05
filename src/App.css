@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap");
+
+.fraunces-normal {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "SOFT" 0, "WONK" 0;
+}
+.glass-morphism {
+  background: rgba(255, 255, 255, 0.292);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5.5px);
+  -webkit-backdrop-filter: blur(5.5px);
+}
+/* .main {
+  background-image: url("https://img.freepik.com/free-photo/blue-smooth-wall-textured-background_53876-106133.jpg?w=1060&t=st=1719997234~exp=1719997834~hmac=5b6fb3be7707c857ed53478fa370973d3d8e93c78d43b43305f9f7e321349176");
+  ("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg");
+  background-size: cover;
+} */
